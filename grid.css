@@ -1,47 +1,47 @@
 nav {
 
-    background: #a7ffeb;
+    background: #ffa7dd;
     grid-area: nav;
 
 }
 
 main{
 
-    background: #84ffff;
+    background: #e88ec7;
     grid-area: main;
 
 }
 
 #sidebar {
 
-    background: #18ffff;
+    background: #e4a8da;
     grid-area: sidebar;
 
 }
 
 #content1 {
 
-    background: #6fffd2;
+    background: #c17bb3;
 
 }
 
 #content2 {
 
-    background: #64ffba;
+    background: #d485cc;
     grid-area: content2;
 
 }
 
 #content3 {
 
-    background: #73ffba;
+    background: #f496d8;
     grid-area: content3;
     
 }
 
 footer {
 
-    background: #1de9b6;
+    background: #c97bc1;
     grid-area: footer;
 
 }
